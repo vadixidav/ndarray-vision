@@ -29,6 +29,8 @@
 pub mod core;
 /// Image enhancement intrinsics and algorithms
 pub mod enhancement;
+/// Feature extraction
+pub mod features;
 /// Image formats - encoding and decoding images from bytes for saving and
 /// loading
 pub mod format;
